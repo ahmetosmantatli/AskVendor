@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Ask Vendor",
+  "SystemName": "Widgets.AskVendor",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.80" ],
+  "Author": "Berkut Tech",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.AskVendor.dll",
+  "Description": "Bu plugin satıcıya soru sor amaçlıdır."
+}
